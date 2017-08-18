@@ -10,19 +10,6 @@ We will protect the names in this country.  The american people demand it,
 and frankly, my administration is known for handling names well.  Fake
 news or not, names will get handled.
 
-As a matter of fact, my class handles names way classier than crooked Hillary
-could ever hope.  My camp of deplorables will always handle names better than
-any of crooked Hillary's.  Once we build a wall, all the bad hombres that 
-want to come get a free ride while messing with our names.
-
-Let me be very clear with this example:
-
-```swift
-AClass.dontFuck(with: me, and: myNames)
-```
-
-And that's all I have to say about that.
-
 
 init()
 ---
