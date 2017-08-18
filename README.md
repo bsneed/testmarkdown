@@ -30,7 +30,8 @@ init()
 ##### Declaration
 
 ```swift
-public init()```
+public init()
+```
 
 undocumented
 
@@ -40,7 +41,8 @@ aValue
 ##### Declaration
 
 ```swift
-public var aValue: String = ""```
+public var aValue: String = ""
+```
 
 This is an **awesome** documentation line for a really *useful* variable.
 
@@ -50,7 +52,8 @@ anotherValue
 ##### Declaration
 
 ```swift
-private var anotherValue: Bool = false```
+private var anotherValue: Bool = false
+```
 
 This is an **awesome** documentation line for a really *useful* variable.
 
@@ -60,7 +63,8 @@ createFullName(firstname:lastname:)
 ##### Declaration
 
 ```swift
-public func createFullName(firstname: String, lastname: String) -> String```
+public func createFullName(firstname: String, lastname: String) -> String
+```
 
 This is an extremely complicated method that concatenates the first and last name and produces the full name.
 
@@ -74,7 +78,8 @@ breakFullName(fullname:)
 ##### Declaration
 
 ```swift
-public func breakFullName(fullname: String) -> (firstname: String, lastname: String)```
+public func breakFullName(fullname: String) -> (firstname: String, lastname: String)
+```
 
 Another complicated function.
 
@@ -105,7 +110,8 @@ x
 ##### Declaration
 
 ```swift
-let x: Int = 0```
+let x: Int = 0
+```
 
 This should not be shown.
 
@@ -115,7 +121,8 @@ doNothing()
 ##### Declaration
 
 ```swift
-public func doNothing()```
+public func doNothing()
+```
 
 A do-nothing method.
 
