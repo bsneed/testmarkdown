@@ -38,6 +38,7 @@ undocumented
 
 <br />
 <br />
+
 ### aValue
 
 ---
@@ -52,6 +53,7 @@ This is an **awesome** documentation line for a really *useful* variable.
 
 <br />
 <br />
+
 ### anotherValue
 
 ---
@@ -66,6 +68,7 @@ This is an **awesome** documentation line for a really *useful* variable.
 
 <br />
 <br />
+
 ### createFullName(firstname:lastname:)
 
 ---
@@ -94,6 +97,7 @@ This is an extremely complicated method that concatenates the first and last nam
 
 <br />
 <br />
+
 ### breakFullName(fullname:)
 
 ---
@@ -136,6 +140,7 @@ There's a counterpart function that concatenates the first and last name into a 
 
 <br />
 <br />
+
 ### x
 
 ---
@@ -150,6 +155,7 @@ This should not be shown.
 
 <br />
 <br />
+
 ### doNothing()
 
 ---
@@ -164,3 +170,4 @@ A do-nothing method.
 
 <br />
 <br />
+
