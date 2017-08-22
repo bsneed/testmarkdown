@@ -28,7 +28,7 @@ And that's all I have to say about that.
 
 ---
 
-##### Declaration
+#### Declaration
 
 ```swift
 public init()
@@ -43,7 +43,7 @@ undocumented
 
 ---
 
-##### Declaration
+#### Declaration
 
 ```swift
 public var aValue: String = ""
@@ -58,7 +58,7 @@ This is an **awesome** documentation line for a really *useful* variable.
 
 ---
 
-##### Declaration
+#### Declaration
 
 ```swift
 private var anotherValue: Bool = false
@@ -73,7 +73,7 @@ This is an **awesome** documentation line for a really *useful* variable.
 
 ---
 
-##### Declaration
+#### Declaration
 
 ```swift
 public func createFullName(firstname: String, lastname: String) -> String
@@ -86,17 +86,15 @@ it get cut off?
 
 
 
-##### Parameters
-<dl>
+#### Parameters
 
-_firstname_
+##### _firstname_<br />
 The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?
 
-_lastname_
+##### _lastname_<br />
 The last part of the fullname.
-</dl>
 
-##### Results
+#### Results
 The full name as a string value.
 
 <br />
@@ -106,7 +104,7 @@ The full name as a string value.
 
 ---
 
-##### Declaration
+#### Declaration
 
 ```swift
 public func breakFullName(fullname: String) -> (firstname: String, lastname: String)
@@ -134,14 +132,12 @@ There's a counterpart function that concatenates the first and last name into a 
 - Note: Too much documentation for such a small function.
 
 
-##### Parameters
-<dl>
+#### Parameters
 
-_fullname_
+##### _fullname_<br />
 The fullname that will be broken into its parts.
-</dl>
 
-##### Results
+#### Results
 A  with the first and last name.
 
 <br />
@@ -151,7 +147,7 @@ A  with the first and last name.
 
 ---
 
-##### Declaration
+#### Declaration
 
 ```swift
 let x: Int = 0
@@ -166,7 +162,7 @@ This should not be shown.
 
 ---
 
-##### Declaration
+#### Declaration
 
 ```swift
 public func doNothing()
