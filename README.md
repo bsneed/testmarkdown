@@ -88,11 +88,11 @@ it get cut off?
 
 #### Parameters
 
-	 **_firstname_**
+- **_firstname_**
 	The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?
 
 
-	 **_lastname_**
+- **_lastname_**
 	The last part of the fullname.
 
 
@@ -136,7 +136,7 @@ There's a counterpart function that concatenates the first and last name into a 
 
 #### Parameters
 
-	 **_fullname_**
+- **_fullname_**
 	The fullname that will be broken into its parts.
 
 
