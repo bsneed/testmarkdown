@@ -81,6 +81,8 @@ public func createFullName(firstname: String, lastname: String) -> String
 
 This is an extremely complicated method that concatenates the first and last name and produces the full name.
 
+long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does 
+it get cut off?
 
 
 
@@ -88,14 +90,14 @@ This is an extremely complicated method that concatenates the first and last nam
 <dl>
 
 ###### &nbsp;&nbsp;&nbsp;&nbsp;_firstname_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first part of the full name.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?
 
 ###### &nbsp;&nbsp;&nbsp;&nbsp;_lastname_
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The last part of the fullname.
 </dl>
 
 ##### Results
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what happens with a 2nd return value?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The full name as a string value.
 
 <br />
 <br />
