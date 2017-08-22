@@ -89,15 +89,15 @@ it get cut off?
 ##### Parameters
 <dl>
 
-###### &nbsp;&nbsp;&nbsp;&nbsp;_firstname_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?
+_firstname_
+The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?
 
-###### &nbsp;&nbsp;&nbsp;&nbsp;_lastname_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The last part of the fullname.
+_lastname_
+The last part of the fullname.
 </dl>
 
 ##### Results
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The full name as a string value.
+The full name as a string value.
 
 <br />
 <br />
@@ -137,12 +137,12 @@ There's a counterpart function that concatenates the first and last name into a 
 ##### Parameters
 <dl>
 
-###### &nbsp;&nbsp;&nbsp;&nbsp;_fullname_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fullname that will be broken into its parts.
+_fullname_
+The fullname that will be broken into its parts.
 </dl>
 
 ##### Results
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A  with the first and last name.
+A  with the first and last name.
 
 <br />
 <br />
