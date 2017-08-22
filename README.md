@@ -35,6 +35,8 @@ public init()
 
 undocumented
 
+<br />
+<br />
 aValue
 ---
 
@@ -46,6 +48,8 @@ public var aValue: String = ""
 
 This is an **awesome** documentation line for a really *useful* variable.
 
+<br />
+<br />
 anotherValue
 ---
 
@@ -57,6 +61,8 @@ private var anotherValue: Bool = false
 
 This is an **awesome** documentation line for a really *useful* variable.
 
+<br />
+<br />
 createFullName(firstname:lastname:)
 ---
 
@@ -76,12 +82,14 @@ This is an extremely complicated method that concatenates the first and last nam
 ###### &nbsp;&nbsp;&nbsp;&nbsp;_firstname_
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first part of the full name.
 
-###### &nbsp;&nbsp;&nbsp;&nbsp;*_lastname_*
+###### &nbsp;&nbsp;&nbsp;&nbsp;_lastname_
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The last part of the fullname.
 
 ##### Results
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what happens with a 2nd return value?
 
+<br />
+<br />
 breakFullName(fullname:)
 ---
 
@@ -116,12 +124,13 @@ There's a counterpart function that concatenates the first and last name into a 
 ##### Parameters
 
 ###### &nbsp;&nbsp;&nbsp;&nbsp;_fullname_
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fullname that will be broken into its parts.
 
 ##### Results
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A  with the first and last name.
 
+<br />
+<br />
 x
 ---
 
@@ -133,6 +142,8 @@ let x: Int = 0
 
 This should not be shown.
 
+<br />
+<br />
 doNothing()
 ---
 
@@ -144,3 +155,5 @@ public func doNothing()
 
 A do-nothing method.
 
+<br />
+<br />
