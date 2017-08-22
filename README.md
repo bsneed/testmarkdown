@@ -24,7 +24,7 @@ AClass.dontFuck(with: me, and: myNames)
 And that's all I have to say about that.
 
 
-init()
+### init()
 
 ---
 
@@ -38,7 +38,7 @@ undocumented
 
 <br />
 <br />
-aValue
+### aValue
 
 ---
 
@@ -52,7 +52,7 @@ This is an **awesome** documentation line for a really *useful* variable.
 
 <br />
 <br />
-anotherValue
+### anotherValue
 
 ---
 
@@ -66,7 +66,7 @@ This is an **awesome** documentation line for a really *useful* variable.
 
 <br />
 <br />
-createFullName(firstname:lastname:)
+### createFullName(firstname:lastname:)
 
 ---
 
@@ -94,7 +94,7 @@ This is an extremely complicated method that concatenates the first and last nam
 
 <br />
 <br />
-breakFullName(fullname:)
+### breakFullName(fullname:)
 
 ---
 
@@ -136,7 +136,7 @@ There's a counterpart function that concatenates the first and last name into a 
 
 <br />
 <br />
-x
+### x
 
 ---
 
@@ -150,7 +150,7 @@ This should not be shown.
 
 <br />
 <br />
-doNothing()
+### doNothing()
 
 ---
 
