@@ -10,6 +10,19 @@ We will protect the names in this country.  The american people demand it,
 and frankly, my administration is known for handling names well.  Fake
 news or not, names will get handled.
 
+As a matter of fact, my class handles names way classier than crooked Hillary
+could ever hope.  My camp of deplorables will always handle names better than
+any of crooked Hillary's.  Once we build a wall, all the bad hombres that 
+want to come get a free ride while messing with our names.
+
+Let me be very clear with this example:
+
+```swift
+AClass.dontFuck(with: me, and: myNames)
+```
+
+And that's all I have to say about that.
+
 
 init()
 ---
@@ -55,9 +68,17 @@ public func createFullName(firstname: String, lastname: String) -> String
 
 This is an extremely complicated method that concatenates the first and last name and produces the full name.
 
-- Parameter firstname: The first part of the full name.
-- Parameter lastname: The last part of the fullname.
-- Returns: The full name as a string value.
+
+
+
+###### Parameters
+_firstname_
+    The first part of the full name.
+_lastname_
+    The last part of the fullname.
+
+###### Results
+    what happens with a 2nd return value?
 
 breakFullName(fullname:)
 ---
@@ -70,8 +91,6 @@ public func breakFullName(fullname: String) -> (firstname: String, lastname: Str
 
 Another complicated function.
 
-- Parameter fullname: The fullname that will be broken into its parts.
-- Returns: A *tuple* with the first and last name.
 
 - Remark:
 There's a counterpart function that concatenates the first and last name into a full name.
@@ -90,6 +109,14 @@ There's a counterpart function that concatenates the first and last name into a 
 - Author: Myself Only
 
 - Note: Too much documentation for such a small function.
+
+
+###### Parameters
+_fullname_
+    The fullname that will be broken into its parts.
+
+###### Results
+    A  with the first and last name.
 
 x
 ---
