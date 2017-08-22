@@ -88,11 +88,13 @@ it get cut off?
 
 #### Parameters
 
-##### _firstname_<br />
-<p class="tab">The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?
+HERE
+
+##### nbsp&;nbsp&;nbsp&;nbsp&; _firstname_<br />
+<p class="tab">The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?</p>
 
 ##### _lastname_<br />
-<p class="tab">The last part of the fullname.
+<p class="tab">The last part of the fullname.</p>
 
 #### Results
 The full name as a string value.
