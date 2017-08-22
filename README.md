@@ -22,8 +22,7 @@ AClass.dontFuck(with: me, and: myNames)
 ```
 
 And that's all I have to say about that.
-
-
+<br /><br />
 ### init()
 
 ----
@@ -35,9 +34,7 @@ public init()
 
 undocumented
 
-<br />
-<br />
-
+<br /><br />
 ### aValue
 
 ----
@@ -49,9 +46,7 @@ public var aValue: String = ""
 
 This is an **awesome** documentation line for a really *useful* variable.
 
-<br />
-<br />
-
+<br /><br />
 ### anotherValue
 
 ----
@@ -63,9 +58,7 @@ private var anotherValue: Bool = false
 
 This is an **awesome** documentation line for a really *useful* variable.
 
-<br />
-<br />
-
+<br /><br />
 ### createFullName(firstname:lastname:)
 
 ----
@@ -93,9 +86,7 @@ it get cut off?
 #### Results
 The full name as a string value.
 
-<br />
-<br />
-
+<br /><br />
 ### breakFullName(fullname:)
 
 ----
@@ -135,9 +126,7 @@ There's a counterpart function that concatenates the first and last name into a 
 #### Results
 A  with the first and last name.
 
-<br />
-<br />
-
+<br /><br />
 ### x
 
 ----
@@ -149,9 +138,7 @@ let x: Int = 0
 
 This should not be shown.
 
-<br />
-<br />
-
+<br /><br />
 ### doNothing()
 
 ----
@@ -163,6 +150,4 @@ public func doNothing()
 
 A do-nothing method.
 
-<br />
-<br />
-
+<br /><br />
