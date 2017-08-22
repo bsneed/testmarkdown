@@ -73,11 +73,11 @@ This is an extremely complicated method that concatenates the first and last nam
 
 ##### Parameters
 
-&nbsp;&nbsp;&nbsp;&nbsp;######_firstname _
+&nbsp;&nbsp;&nbsp;&nbsp;###### _firstname _
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first part of the full name.
 
-&nbsp;&nbsp;&nbsp;&nbsp;######_lastname_
+&nbsp;&nbsp;&nbsp;&nbsp;###### _lastname_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The last part of the fullname.
 
