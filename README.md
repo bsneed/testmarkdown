@@ -95,6 +95,7 @@ it get cut off?
 
 
 #### Results
+
 	The full name as a string value.
 
 <br />
