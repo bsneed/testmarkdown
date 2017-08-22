@@ -90,10 +90,10 @@ it get cut off?
 
 HERE
 
-###### - _firstname_<br />
+- **_firstname_**<br />
    The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?
 
-- _lastname_<br />
+- **_lastname_**<br />
    The last part of the fullname.</p>
 
 #### Results
