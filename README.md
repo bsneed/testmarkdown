@@ -73,11 +73,11 @@ This is an extremely complicated method that concatenates the first and last nam
 
 ##### Parameters
 
-&nbsp;&nbsp;&nbsp;&nbsp;*_firstname_*
+###### &nbsp;&nbsp;&nbsp;&nbsp;_firstname_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first part of the full name.
 
-&nbsp;&nbsp;&nbsp;&nbsp;*_lastname_*
+###### &nbsp;&nbsp;&nbsp;&nbsp;*_lastname_*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The last part of the fullname.
 
@@ -117,7 +117,7 @@ There's a counterpart function that concatenates the first and last name into a 
 
 ##### Parameters
 
-&nbsp;&nbsp;&nbsp;&nbsp;_######fullname_
+###### &nbsp;&nbsp;&nbsp;&nbsp;_fullname_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fullname that will be broken into its parts.
 
