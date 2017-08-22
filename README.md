@@ -71,16 +71,16 @@ This is an extremely complicated method that concatenates the first and last nam
 
 
 
-###### Parameters
+##### Parameters
 _firstname_
 
-&nbsp;&nbsp;&nbsp;&nbsp;The first part of the full name.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first part of the full name.
 _lastname_
 
-&nbsp;&nbsp;&nbsp;&nbsp;The last part of the fullname.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The last part of the fullname.
 
-###### Results
-&nbsp;&nbsp;&nbsp;&nbsp;what happens with a 2nd return value?
+##### Results
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what happens with a 2nd return value?
 
 breakFullName(fullname:)
 ---
@@ -113,13 +113,13 @@ There's a counterpart function that concatenates the first and last name into a 
 - Note: Too much documentation for such a small function.
 
 
-###### Parameters
+##### Parameters
 _fullname_
 
-&nbsp;&nbsp;&nbsp;&nbsp;The fullname that will be broken into its parts.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fullname that will be broken into its parts.
 
-###### Results
-&nbsp;&nbsp;&nbsp;&nbsp;A  with the first and last name.
+##### Results
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A  with the first and last name.
 
 x
 ---
