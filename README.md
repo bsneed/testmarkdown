@@ -25,6 +25,7 @@ And that's all I have to say about that.
 
 
 init()
+
 ---
 
 ##### Declaration
@@ -38,6 +39,7 @@ undocumented
 <br />
 <br />
 aValue
+
 ---
 
 ##### Declaration
@@ -51,6 +53,7 @@ This is an **awesome** documentation line for a really *useful* variable.
 <br />
 <br />
 anotherValue
+
 ---
 
 ##### Declaration
@@ -64,6 +67,7 @@ This is an **awesome** documentation line for a really *useful* variable.
 <br />
 <br />
 createFullName(firstname:lastname:)
+
 ---
 
 ##### Declaration
@@ -91,6 +95,7 @@ This is an extremely complicated method that concatenates the first and last nam
 <br />
 <br />
 breakFullName(fullname:)
+
 ---
 
 ##### Declaration
@@ -132,6 +137,7 @@ There's a counterpart function that concatenates the first and last name into a 
 <br />
 <br />
 x
+
 ---
 
 ##### Declaration
@@ -145,6 +151,7 @@ This should not be shown.
 <br />
 <br />
 doNothing()
+
 ---
 
 ##### Declaration
