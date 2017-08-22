@@ -89,11 +89,11 @@ it get cut off?
 #### Parameters
 
 - **_firstname_**
-   + The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?
+  The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?
 
 
 - **_lastname_**
-   + The last part of the fullname.
+  The last part of the fullname.
 
 
 #### Results
