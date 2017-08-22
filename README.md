@@ -26,9 +26,10 @@ And that's all I have to say about that.
 
 ### init()
 
----
+----
 
-#### Declaration : 
+#### Declaration
+=====
 
 ```swift
 public init()
@@ -41,9 +42,10 @@ undocumented
 
 ### aValue
 
----
+----
 
-#### Declaration : 
+#### Declaration
+=====
 
 ```swift
 public var aValue: String = ""
@@ -56,9 +58,10 @@ This is an **awesome** documentation line for a really *useful* variable.
 
 ### anotherValue
 
----
+----
 
-#### Declaration : 
+#### Declaration
+=====
 
 ```swift
 private var anotherValue: Bool = false
@@ -71,9 +74,10 @@ This is an **awesome** documentation line for a really *useful* variable.
 
 ### createFullName(firstname:lastname:)
 
----
+----
 
-#### Declaration : 
+#### Declaration
+=====
 
 ```swift
 public func createFullName(firstname: String, lastname: String) -> String
@@ -87,7 +91,7 @@ it get cut off?
 
 
 #### Parameters
-===
+=====
 
 + **_firstname_**<br />	The first part of the full name.  Alternatively, lets see how a really really really long line of description goes for the parameter called `firstname`.  Does it wrapp appropriately, or does it get cut off?
 
@@ -96,7 +100,7 @@ it get cut off?
 
 
 #### Results
-===
+=====
 The full name as a string value.
 
 <br />
@@ -104,9 +108,10 @@ The full name as a string value.
 
 ### breakFullName(fullname:)
 
----
+----
 
-#### Declaration : 
+#### Declaration
+=====
 
 ```swift
 public func breakFullName(fullname: String) -> (firstname: String, lastname: String)
@@ -135,13 +140,13 @@ There's a counterpart function that concatenates the first and last name into a 
 
 
 #### Parameters
-===
+=====
 
 + **_fullname_**<br />	The fullname that will be broken into its parts.
 
 
 #### Results
-===
+=====
 A  with the first and last name.
 
 <br />
@@ -149,9 +154,10 @@ A  with the first and last name.
 
 ### x
 
----
+----
 
-#### Declaration : 
+#### Declaration
+=====
 
 ```swift
 let x: Int = 0
@@ -164,9 +170,10 @@ This should not be shown.
 
 ### doNothing()
 
----
+----
 
-#### Declaration : 
+#### Declaration
+=====
 
 ```swift
 public func doNothing()
