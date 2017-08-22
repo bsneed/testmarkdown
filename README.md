@@ -95,7 +95,7 @@ it get cut off?
 
 
 #### Results
-The full name as a string value.
+	The full name as a string value.
 
 <br />
 <br />
@@ -138,7 +138,7 @@ There's a counterpart function that concatenates the first and last name into a 
 
 
 #### Results
-A  with the first and last name.
+	A  with the first and last name.
 
 <br />
 <br />
