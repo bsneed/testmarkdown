@@ -17,9 +17,8 @@ want to come get a free ride while messing with our names.
 
 Let me be very clear with this example:
 
-```swift
-AClass.dontFuck(with: me, and: myNames)
-```
+.. code:swift
+  AClass.dontFuck(with: me, and: myNames)
 
 And that's all I have to say about that.
 <br /><br />
@@ -28,9 +27,8 @@ And that's all I have to say about that.
 ----
 
 #### Declaration
-```swift
-public init()
-```
+.. code:swift
+  public init()
 
 undocumented
 
@@ -40,9 +38,8 @@ undocumented
 ----
 
 #### Declaration
-```swift
-public var aValue: String = ""
-```
+.. code:swift
+  public var aValue: String = ""
 
 This is an **awesome** documentation line for a really *useful* variable.
 
@@ -52,9 +49,8 @@ This is an **awesome** documentation line for a really *useful* variable.
 ----
 
 #### Declaration
-```swift
-private var anotherValue: Bool = false
-```
+.. code:swift
+  private var anotherValue: Bool = false
 
 This is an **awesome** documentation line for a really *useful* variable.
 
@@ -64,9 +60,9 @@ This is an **awesome** documentation line for a really *useful* variable.
 ----
 
 #### Declaration
-```swift
-public func createFullName(firstname: String, lastname: String) -> String
-```
+.. code:swift
+  public func createFullName(firstname: String, lastname: String) -> String
+
 
 This is an extremely complicated method that concatenates the first and last name and produces the full name.
 
@@ -92,9 +88,8 @@ The full name as a string value.
 ----
 
 #### Declaration
-```swift
-public func breakFullName(fullname: String) -> (firstname: String, lastname: String)
-```
+.. code:swift
+  public func breakFullName(fullname: String) -> (firstname: String, lastname: String)
 
 Another complicated function.
 
@@ -132,9 +127,8 @@ A  with the first and last name.
 ----
 
 #### Declaration
-```swift
-let x: Int = 0
-```
+.. code:swift
+  let x: Int = 0
 
 This should not be shown.
 
@@ -144,9 +138,8 @@ This should not be shown.
 ----
 
 #### Declaration
-```swift
-public func doNothing()
-```
+.. code:swift
+  public func doNothing()
 
 A do-nothing method.
 
