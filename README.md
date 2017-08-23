@@ -36,6 +36,9 @@ Used for doing protocol-ish types of things.
 [AStruct](./AStruct.md)
 ----
 
+This is a struct that does the hooky-doo better than most doo-hookies can usually
+do.  Don't be alarmed.
+
 [AlignmentOptions](./AlignmentOptions.md)
 ----
 
@@ -50,6 +53,11 @@ case Right
 [Globals](./Globals.md)
 ----
 
+Documentation for various global functions, etc. contained within this module.
+
 [String.extension](./String.extension.md)
 ----
+
+Extensions for `String` that add additional functionality around names and
+public something or others.
 
