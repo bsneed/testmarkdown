@@ -1,8 +1,8 @@
 API Index
----------
+=========
 
 [AClass](./AClass.md)
-====
+----
 
 This is a class that does classy things.
 Part of that is messing with full names, partial names, and all the names.
@@ -27,17 +27,17 @@ AClass.dontFuck(with: me, and: myNames)
 And that's all I have to say about that.
 
 [AProtocol](./AProtocol.md)
-====
+----
 
 This is AProtocol.
 
 Used for doing protocol-ish types of things.
 
 [AStruct](./AStruct.md)
-====
+----
 
 [AlignmentOptions](./AlignmentOptions.md)
-====
+----
 
 My own alignment options.
 
@@ -48,8 +48,8 @@ case Right
 ````
 
 [Globals](./Globals.md)
-====
+----
 
 [String.extension](./String.extension.md)
-====
+----
 
