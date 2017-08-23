@@ -1,3 +1,6 @@
+API Index
+---------
+
 [AClass](./AClass.md)
 ====
 
